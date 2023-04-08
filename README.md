@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 😄 About me:
+
+I am changing career towards web development. Recently completed the +Devs2Blu, a career acceleration training program designed to enable participants on full stack development, including the technologies: HTML, CSS, Javascript, Bootstrap, Angular, Java, Spring Framework and SQL. I have advanced English proficiency, with experience living abroad. I worked at financial institutions, leaving in 2015 to seek new opportunities. In the meantime, I acted as an independent investor and other activities. Nowadays I am looking for placement in the information technology industry.
+
+- 📫 How to reach me:
+
+https://www.linkedin.com/in/carlosjpinheiro/
+carlos.pnx@gmail.com
+
 <!--
 **carlosjpinheiro/carlosjpinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
