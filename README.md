@@ -6,7 +6,7 @@ I am changing career towards web development. Recently completed the +Devs2Blu, 
 
 - 📫 How to reach me:
 
-https://www.linkedin.com/in/carlosjpinheiro/
+https://www.linkedin.com/in/carlosjpinheiro/ <br>
 carlos.pnx@gmail.com
 
 <!--
